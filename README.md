@@ -15,3 +15,8 @@ Now that the environment is setup, run the jupyter notebook Clinical_Analysis.ip
 ```
 jupyter-notebook
 ```
+
+run generate_dataset.py to generate dataset.
+
+the name of nrrd means :patient_id,nodule,slice,roi,malignancy.
+
